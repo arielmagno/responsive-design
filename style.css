@@ -76,14 +76,14 @@ nav {
   background: linear-gradient(to right, gray, darkgray);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: drop 5s ease-in;
+  animation: drop 1s ease-in;
 }
 
 .intro-text p {
   margin-top: 5px;
   font-size: 18px;
   color: gray;
-  animation: drop 3s ease-in-out;
+  animation: drop 1s ease-in-out;
 }
 .cover {
   height: 60vh;
